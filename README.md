@@ -1,2 +1,2 @@
 ## Gallary Application ( Image Changer ) 
-![alt "Firefox Fun"]("images/my-image.svg]")
+![alt "Fire Fox Fun"](https://github.com/[mehedi-softdev]/[my-gallary]/blob/[main]/images/my-image.svg?raw=true)
